@@ -1,4 +1,4 @@
-file = r'C:/Users/gelos/Desktop/movie_1' #нерабочее
+file = r'C:/Users/gelos/Desktop/movie_1.mp3' #нерабочее
 
 import pydub 
 import numpy as np
